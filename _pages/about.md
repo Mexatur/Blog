@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Web / Application Developer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m a Computer Science graduate based in Athens, Greece, with professional experience in both web application development and ICT support. My background allows me to approach projects not only from a development perspective, but also with a strong understanding of system reliability, user needs, and technical troubleshooting.
+From designing clean, responsive user interfaces to implementing backend functionality and deploying live applications, I enjoy working across the full development lifecycle. I’ve collaborated with small businesses, individual clients, and internal teams—translating ideas and requirements into functional, maintainable web solutions.
+Alongside development, I currently work as an ICT Help Desk Agent, where I support users, troubleshoot hardware and software issues, and build small internal tools that improve communication and workflow. This role has strengthened my ability to work under pressure, explain technical concepts clearly, and adapt quickly to new technologies.
 
 A data-driven personal website
 ======
