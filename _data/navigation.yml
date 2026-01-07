@@ -10,7 +10,8 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url : /files/MatCV.pdf
+    # url: /cv/
 
   - title: "Portfolio"
     url: /portfolio/
