@@ -9,56 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+MEHMET AKIF TURHAN
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Phone number: (+30) 6985039556 
+Email address: akifturhan89@gmail.com
+Home: Athens (Greece)
 
-Work experience
+WORK EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Freelance – Αthens, Greece
+Web application developer [ 01/11/2022 – Current ]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+As a freelance web developer, I was responsible for designing, developing, and maintaining responsive websites or
+website applications for small businesses and individual clients. My tasks included gathering client requirements,
+creating user-friendly interfaces using HTML, CSS, and JavaScript, and implementing functionality with frameworks
+such as React and backend technologies like Node.js. I also managed basic SEO optimization, ensured cross-browser
+compatibility, and deployed projects using platforms like GitHub. This experience helped me develop strong
+problem-solving skills, effective communication with clients, and the ability to manage projects independently.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+New York College (Athens) – Athens, Greece 
+ICT help desk agent [ 10/06/2025 – Current ]
 
-Publications
+As an IT desk agent (Part-Time), I have gained solid experience on the hardware side of technological devices,
+including troubleshooting, maintenance, and user support. In addition to hardware support, I have developed
+practical applications that improve communication and workflow between staff members. Through this role, I have
+strengthened my problem-solving skills, learned to work efficiently under pressure, and gained a better
+understanding of how technology can be used to support daily business operations.
+
+EDUCATION AND TRAINING
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+BSc (Hons) Computer Science
+University of Greater Manchester [ 01/11/2022 – 01/06/2025 ]
+City: Bolton | Country: United Kingdom | Website: https://greatermanchester.ac.uk/subject-areas/computerscience | Level in EQF: EQF level 6 
   
-Talks
+SKILLS
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+JavaScript Framework / CSS / use markup languages / maintain responsive design / Sass / LESS / tools for
+software configuration management / create prototype of user experience solutions / Python (computer
+programming) / design application interfaces / database / WordPress / Agile project management / ICT
+debugging tools / problem-solving with digital tools / communicate technicalities with clients / manage time /
+cooperate with colleagues / show commitment / adapt to change / manage personal professional development 
+
+
+LANGUAGES
+======
+Turkish (Native)
+Greek (Fluent)
+English (Fluent)
   
-Teaching
+VOLUNTEERING
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[ 13/07/2025 – 20/07/2025 ] Athens, Greece
+ECOMOTION: ACTIVE YOUTH, CREATIVE MINDS, HEALTHY EARTH
+EcoMotion is an Erasmus+ Youth Exchange initiative. This 7-day program focuses on physical well-being through
+sports and environmental awareness via clean-ups. Activities include workshops, outdoor sports, and cultural
+exchange. Participants gain skills in an active, sustainable, and inclusive setting.
+Link: https://www.youthpass.eu/en/verify/HMR7-V1TL-AYYX-HHHF/Mehmet Akif Turhan
+
+[ 01/04/2023 – 01/10/2025 ] Athens, Greece
+BOARD DIRECTORY OF OLYMPUS YOUTH CENTER
+Since April 2023, I have been part of the founding team of the Olympus Youth Center (OYC), an initiative dedicated to
+helping immigrant teens and young adults integrate more smoothly into life in Greece. From the center’s inception, I
+have served on the board of directors, working alongside a passionate team to grow and enhance the center's
+programs and impact on the community.
+Link: https://www.youtube.com/@OlympusYouthCenter   
