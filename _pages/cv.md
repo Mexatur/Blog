@@ -11,13 +11,16 @@ redirect_from:
 
 MEHMET AKIF TURHAN
 ======
-Phone number: (+30) 6985039556 
+Phone number: (+30) 6985039556
+
 Email address: akifturhan89@gmail.com
+
 Home: Athens (Greece)
 
 WORK EXPERIENCE
 ======
 Freelance – Αthens, Greece
+
 Web application developer [ 01/11/2022 – Current ]
 
 As a freelance web developer, I was responsible for designing, developing, and maintaining responsive websites or
@@ -28,6 +31,7 @@ compatibility, and deployed projects using platforms like GitHub. This experienc
 problem-solving skills, effective communication with clients, and the ability to manage projects independently.
 
 New York College (Athens) – Athens, Greece 
+
 ICT help desk agent [ 10/06/2025 – Current ]
 
 As an IT desk agent (Part-Time), I have gained solid experience on the hardware side of technological devices,
@@ -39,8 +43,14 @@ understanding of how technology can be used to support daily business operations
 EDUCATION AND TRAINING
 ======
 BSc (Hons) Computer Science
+
 University of Greater Manchester [ 01/11/2022 – 01/06/2025 ]
-City: Bolton | Country: United Kingdom | Website: https://greatermanchester.ac.uk/subject-areas/computerscience | Level in EQF: EQF level 6 
+
+City: Bolton | Country: United Kingdom
+
+Website: https://greatermanchester.ac.uk/subject-areas/computerscience
+
+Level in EQF: EQF level 6 
   
 SKILLS
 ======
@@ -54,22 +64,30 @@ cooperate with colleagues / show commitment / adapt to change / manage personal 
 LANGUAGES
 ======
 Turkish (Native)
+
 Greek (Fluent)
+
 English (Fluent)
   
 VOLUNTEERING
 ======
-[ 13/07/2025 – 20/07/2025 ] Athens, Greece
 ECOMOTION: ACTIVE YOUTH, CREATIVE MINDS, HEALTHY EARTH
+
+[ 13/07/2025 – 20/07/2025 ] Athens, Greece
+
 EcoMotion is an Erasmus+ Youth Exchange initiative. This 7-day program focuses on physical well-being through
 sports and environmental awareness via clean-ups. Activities include workshops, outdoor sports, and cultural
 exchange. Participants gain skills in an active, sustainable, and inclusive setting.
+
 Link: https://www.youthpass.eu/en/verify/HMR7-V1TL-AYYX-HHHF/Mehmet Akif Turhan
 
-[ 01/04/2023 – 01/10/2025 ] Athens, Greece
 BOARD DIRECTORY OF OLYMPUS YOUTH CENTER
+
+[ 01/04/2023 – 01/10/2025 ] Athens, Greece
+
 Since April 2023, I have been part of the founding team of the Olympus Youth Center (OYC), an initiative dedicated to
 helping immigrant teens and young adults integrate more smoothly into life in Greece. From the center’s inception, I
 have served on the board of directors, working alongside a passionate team to grow and enhance the center's
 programs and impact on the community.
+
 Link: https://www.youtube.com/@OlympusYouthCenter   
