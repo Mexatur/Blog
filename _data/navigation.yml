@@ -2,8 +2,8 @@
 main:
 
   - title: "CV"
-    url : /files/MatCV.pdf
-    # url: /cv/
+    #url : /files/MatCV.pdf
+    url: /cv/
 
   # - title: "Portfolio"
   # url: /portfolio/
